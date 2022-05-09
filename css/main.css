@@ -362,12 +362,6 @@ h1, h3, h4, h5, p {
   padding-right: 15px;
 }
 
-/*
-  ========================================
-  Navigation
-  ========================================
-*/
-
 .nav {
   text-align: right;
 }
@@ -381,12 +375,6 @@ h1, h3, h4, h5, p {
 .nav li:last-child {
   margin-right: 0;
 }
-
-/*
-  ========================================
-  Speakers
-  ========================================
-*/
   
 .speaker-info {
   border: 1px solid #dfe2e5;
@@ -408,12 +396,6 @@ h1, h3, h4, h5, p {
   float: right;
 }
 
-/*
-  ========================================
-  Venue
-  ========================================
-*/
-
 .venue-theatre {
   margin-bottom: 66px;
 }
@@ -425,11 +407,6 @@ h1, h3, h4, h5, p {
   height: 264px;
 }
 
-/*
-  ========================================
-  Register
-  ========================================
-*/
 
 .why-attend {
   list-style: square;
@@ -471,12 +448,6 @@ textarea {
 .register-group textarea {
   height: 78px;
 }
-
-/*
-  ========================================
-  Schedule
-  ========================================
-*/
 
 table {
   margin-bottom: 44px;
@@ -541,7 +512,3 @@ table h4 {
 .schedule-offset {
   color: #a9b2b9;
 }
-
-
-
-
